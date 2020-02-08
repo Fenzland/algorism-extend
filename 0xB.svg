@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
+><svg version="1.1" viewBox="-256,-512,512,1024" xmlns="http://www.w3.org/2000/svg"
+	><path d="
+		M 32,32
+			h 88
+			l -128,288
+			h 72
+			l 128,-288
+			v -64
+			h -160
+			v -128
+			h -64
+			v 128
+			h -88
+			l 128,-288
+			h -72
+			l -128,288
+			v 64
+			h 160
+			v 128
+			h 64
+		z
+	"
+/></svg>
